@@ -1,0 +1,1 @@
+--INSERT INTO telesales (id, name, code, working_periods) VALUES (1, 'ziad', '1801', ARRAY['AM']);
